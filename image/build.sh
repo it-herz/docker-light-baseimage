@@ -1,4 +1,4 @@
-#!/bin/sh -ex
+#!/bin/bash
 
 ## Add bash tools to /sbin
 ln -s /container/tool/* /sbin/
